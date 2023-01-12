@@ -133,9 +133,9 @@ function App() {
               title={
                 (index==0 && "Site Status")||
                 (index == 1 && "Store Details") ||
-                (index == 12 && "GST Details") ||
-                (index == 16 && "Agreement Details") ||
-                (index == 32 && "Compliance Details")                
+                (index == 14 && "GST Details") ||
+                (index == 18 && "Agreement Details") ||
+                (index == 34 && "Compliance Details")                
               }
               data={data}
               index={index}
