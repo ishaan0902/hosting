@@ -52,7 +52,7 @@ button {
   font-size: calc(10px + 2vmin);
 }
 select{
-  background-color: ##F5F5F5;
+  background-color: #F6F2F1;
   font-size: large;
   text-align: center;
   font-family: 'Poppins' !important;
@@ -61,7 +61,7 @@ select{
 
 }
 option{
-  background-color: ##F5F5F5;
+  background-color: ##F6F2F1;
   font-weight: 400;
   font-family: 'Poppins' !important;
 }
