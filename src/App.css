@@ -4,6 +4,7 @@
   box-align: center;
   margin: auto;
   box-sizing: content-box;
+  overflow-x:auto;
   
 }
 
