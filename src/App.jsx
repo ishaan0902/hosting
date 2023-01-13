@@ -108,7 +108,7 @@ function App() {
 
   return (
     // https://codesandbox.io/s/react-custom-dropdown-select-demo-forked-276905
-    <div className="App">
+    <div className="App" style="overflow-x:auto;">
       <center>
         {stores.length && tableData.length ? (
           <h2> Kindly Choose the Store </h2>
