@@ -46,7 +46,7 @@ function App() {
  
   const handleSubmit = async (event) => {
     event.preventDefault();
-    if (formFields.user === "root" && formFields.password === "12345") {
+    if (formFields.user === "Retail" && formFields.password === "retail@123") {
       setLogin(true);
     } else {
       alert("wrong id/password");
